@@ -1,0 +1,11 @@
+- https://vulkan-tutorial.com/
+- https://vkguide.dev/
+- https://gpuopen.com/learn/understanding-vulkan-objects/
+- https://raphlinus.github.io/gpu/2020/04/30/prefix-sum.html
+- https://developer.samsung.com/galaxy-gamedev/resources/articles/gpu-framebuffer.html
+- https://developer.samsung.com/galaxy-gamedev/resources/articles/renderpasses.html
+- https://asawicki.info/news_1740_vulkan_memory_types_on_pc_and_how_to_use_them
+- https://developer.nvidia.com/vulkan-memory-management
+- https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/d3dukmdt/ne-d3dukmdt-_d3dddi_pool
+- https://learn.microsoft.com/en-us/windows-hardware/drivers/display/specifying-memory-type-for-a-resource
+- https://learn.microsoft.com/en-us/windows-hardware/drivers/display/agp-support
