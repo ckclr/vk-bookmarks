@@ -9,3 +9,4 @@
 - https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/d3dukmdt/ne-d3dukmdt-_d3dddi_pool
 - https://learn.microsoft.com/en-us/windows-hardware/drivers/display/specifying-memory-type-for-a-resource
 - https://learn.microsoft.com/en-us/windows-hardware/drivers/display/agp-support
+- https://github.com/gametechdev/IntroductionToVulkan
